@@ -1,0 +1,15 @@
+{
+    "platform": "instagram",
+    "target_type": "hashtag",
+    "target_value": "fyp",
+    "like_count": 50,
+    "min_delay": 2,
+    "max_delay": 8,
+    "enable_proxy": false,
+    "proxy_file": "proxies.txt",
+    "account_file": "accounts.txt",
+    "randomize_order": true,
+    "max_per_minute": 20,
+    "like_on_follow": false,
+    "skip_duplicates": true
+}
